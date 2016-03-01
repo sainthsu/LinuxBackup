@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Development;
+Comment[zh_CN]= a java  development IDE
+Comment= java development IDE
+Exec=/home/saint/Development/eclipse/eclipse
+GenericName[zh_CN]=IDE
+GenericName=IDE
+Icon=/home/saint/Development/eclipse/icon.xpm
+MimeType=
+Name[zh_CN]=Eclipse
+Name=Eclipse
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=saint

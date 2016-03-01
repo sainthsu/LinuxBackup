@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Development;
+Comment[zh_CN]= an android development IDE
+Comment= android development IDE
+Exec=/home/saint/Development/android-studio/bin/studio.sh
+GenericName[zh_CN]=IDE
+GenericName=IDE
+Icon=/home/saint/Development/android-studio/bin/idea.png
+MimeType=
+Name[zh_CN]=android studio
+Name=android studio
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=saint

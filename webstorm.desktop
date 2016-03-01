@@ -1,0 +1,19 @@
+[Desktop Entry]
+Categories=Development;
+Comment[zh_CN]= an web development IDE
+Comment= web development IDE
+Exec=/home/saint/Development/WebStorm/bin/webstorm.sh
+GenericName[zh_CN]=IDE
+GenericName=IDE
+Icon=/home/saint/Development/WebStorm/bin/webide.png
+MimeType=
+Name[zh_CN]=WebStorm
+Name=WebStorm
+Path=
+StartupNotify=true
+Terminal=false
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=saint
